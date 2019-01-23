@@ -49,8 +49,8 @@
 
     <main.basedir>${project.basedir}</main.basedir>
 
-    <armeria.version>0.78.1</armeria.version>
-    <brave.version>5.6.0</brave.version>
+    <armeria.version>0.79.0</armeria.version>
+    <brave.version>5.6.1</brave.version>
     <cassandra-driver-core.version>3.6.0</cassandra-driver-core.version>
     <okhttp.version>3.12.1</okhttp.version>
     <okio.version>1.16.0</okio.version>
